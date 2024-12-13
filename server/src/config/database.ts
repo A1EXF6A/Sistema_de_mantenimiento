@@ -1,10 +1,15 @@
 import { Sequelize } from 'sequelize';
 import { env } from './env';
 
-const database = new Sequelize(env.database.name, env.database.user, env.database.password, {
-    dialect: 'postgres',
-    host: env.database.host,
-    logging: (msg) => console.log(`[Sequelize]: ${msg}`)
-});
+const db = new Sequelize(
+    env.database.name || 'gestionactivos',
+    env.database.user || 'root',
+    env.database.password || '',
+    {
+        host: env.database.host || 'localhost',
+        dialect: env.dialect || 'mysql',
+        port: env.database.port || 3308, // Puerto de MySQL en XAMPP
+    }
+);
 
-export { database };
+export default db;

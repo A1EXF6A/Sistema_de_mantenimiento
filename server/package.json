@@ -4,8 +4,7 @@
   "type": "module",
   "main": "server.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "tsx watch src/server.ts"
+    "start": "tsx watch src/server.ts"
   },
   "keywords": [],
   "author": "",
@@ -13,7 +12,9 @@
   "description": "Servidor de la aplicación",
   "dependencies": {
     "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
     "express": "^4.21.2",
+    "mysql2": "^3.11.5",
     "pg": "^8.13.1",
     "sequelize": "^6.37.5"
   },
