@@ -13,14 +13,11 @@ import componente from './routes/componenteRoute';
 import detalle from './routes/DetalleMantenimientoRouter';
 import componenteMantenimiento from './routes/ComponenteActivoMantenimientoRouter';
 import stats from './routes/EstadisticasRouter';
-import prueba from './routes/prueba';
 
 const app = express();
 
 app.use(cors());
 app.use(express.json());
-
-app.use('/api/prueba', prueba);
 
 app.use('/api', userRouter);
 app.use('/api/activos', routerActivos);

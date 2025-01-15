@@ -4,5 +4,12 @@
   "description": "Sistema que se encargara de llevar a cabo un registro y mantenimiento de activos o dispositivos, sistema creado como proyecto de final de semestre de M.A. ",
   "main": "index.js",
   "author": "Los5Furiosos",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chartjs-plugin-datalabels": "^2.2.0",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^2.5.2",
+    "moment": "^2.30.1",
+    "xlsx": "^0.18.5"
+  }
 }
