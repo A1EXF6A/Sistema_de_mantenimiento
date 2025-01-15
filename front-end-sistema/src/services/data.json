@@ -1,0 +1,406 @@
+{
+    "activos": [
+        {
+            "id_act": 1,
+            "name_act": "Servidor Dell R740",
+            "code_act": "A-1001",
+            "ubication_act": "Sala de Servidores",
+            "state_act": "Activo",
+            "brand_act": "Dell",
+            "type_act": "Servidor",
+            "buy_process_act": "2021-05-10",
+            "in_maintenance": false
+        },
+        {
+            "id_act": 2,
+            "name_act": "Laptop HP ProBook",
+            "code_act": "A-1002",
+            "ubication_act": "Oficina 3",
+            "state_act": "Activo",
+            "brand_act": "HP",
+            "type_act": "Laptop",
+            "buy_process_act": "2020-11-15",
+            "in_maintenance": false
+        },
+        {
+            "id_act": 3,
+            "name_act": "Impresora Canon LBP6030",
+            "code_act": "A-1003",
+            "ubication_act": "Recepción",
+            "state_act": "En Reparación",
+            "brand_act": "Canon",
+            "type_act": "Impresora",
+            "buy_process_act": "2019-09-20",
+            "in_maintenance": true
+        },
+        {
+            "id_act": 4,
+            "name_act": "Switch Cisco 2960",
+            "code_act": "A-1004",
+            "ubication_act": "Sala de Redes",
+            "state_act": "Activo",
+            "brand_act": "Cisco",
+            "type_act": "Switch",
+            "buy_process_act": "2021-07-12",
+            "in_maintenance": false
+        },
+        {
+            "id_act": 5,
+            "name_act": "Router MikroTik RB4011",
+            "code_act": "A-1005",
+            "ubication_act": "Sala de Redes",
+            "state_act": "En Reparación",
+            "brand_act": "MikroTik",
+            "type_act": "Router",
+            "buy_process_act": "2022-01-22",
+            "in_maintenance": true
+        },
+        {
+            "id_act": 6,
+            "name_act": "Laptop Lenovo ThinkPad",
+            "code_act": "A-1006",
+            "ubication_act": "Oficina 4",
+            "state_act": "Activo",
+            "brand_act": "Lenovo",
+            "type_act": "Laptop",
+            "buy_process_act": "2022-03-19",
+            "in_maintenance": false
+        },
+        {
+            "id_act": 7,
+            "name_act": "Servidor HP ProLiant DL380",
+            "code_act": "A-1007",
+            "ubication_act": "Sala de Servidores",
+            "state_act": "Activo",
+            "brand_act": "HP",
+            "type_act": "Servidor",
+            "buy_process_act": "2020-06-05",
+            "in_maintenance": false
+        },
+        {
+            "id_act": 8,
+            "name_act": "Impresora Epson EcoTank",
+            "code_act": "A-1008",
+            "ubication_act": "Oficina 1",
+            "state_act": "Activo",
+            "brand_act": "Epson",
+            "type_act": "Impresora",
+            "buy_process_act": "2021-12-11",
+            "in_maintenance": false
+        },
+        {
+            "id_act": 9,
+            "name_act": "Switch TP-Link TL-SG108",
+            "code_act": "A-1009",
+            "ubication_act": "Sala de Redes",
+            "state_act": "En Reparación",
+            "brand_act": "TP-Link",
+            "type_act": "Switch",
+            "buy_process_act": "2022-05-22",
+            "in_maintenance": true
+        },
+        {
+            "id_act": 10,
+            "name_act": "Router TP-Link Archer C7",
+            "code_act": "A-1010",
+            "ubication_act": "Oficina 5",
+            "state_act": "Activo",
+            "brand_act": "TP-Link",
+            "type_act": "Router",
+            "buy_process_act": "2020-08-15",
+            "in_maintenance": false
+        },
+        {
+            "id_act": 11,
+            "name_act": "Monitor Samsung 27\"",
+            "code_act": "A-1011",
+            "ubication_act": "Sala de Reuniones",
+            "state_act": "Activo",
+            "brand_act": "Samsung",
+            "type_act": "Monitor",
+            "buy_process_act": "2023-03-05",
+            "in_maintenance": false
+        },
+        {
+            "id_act": 12,
+            "name_act": "Teclado Logitech K800",
+            "code_act": "A-1012",
+            "ubication_act": "Oficina 6",
+            "state_act": "Activo",
+            "brand_act": "Logitech",
+            "type_act": "Teclado",
+            "buy_process_act": "2023-02-02",
+            "in_maintenance": false
+        },
+        {
+            "id_act": 13,
+            "name_act": "Mouse Logitech M350",
+            "code_act": "A-1013",
+            "ubication_act": "Oficina 7",
+            "state_act": "Activo",
+            "brand_act": "Logitech",
+            "type_act": "Mouse",
+            "buy_process_act": "2022-11-10",
+            "in_maintenance": false
+        },
+        {
+            "id_act": 14,
+            "name_act": "Servidor IBM X3650",
+            "code_act": "A-1014",
+            "ubication_act": "Sala de Servidores",
+            "state_act": "En Reparación",
+            "brand_act": "IBM",
+            "type_act": "Servidor",
+            "buy_process_act": "2021-03-18",
+            "in_maintenance": true
+        },
+        {
+            "id_act": 15,
+            "name_act": "Router Cisco ISR 4000",
+            "code_act": "A-1015",
+            "ubication_act": "Sala de Redes",
+            "state_act": "Activo",
+            "brand_act": "Cisco",
+            "type_act": "Router",
+            "buy_process_act": "2020-09-25",
+            "in_maintenance": false
+        },
+        {
+            "id_act": 16,
+            "name_act": "Switch Juniper EX4300",
+            "code_act": "A-1016",
+            "ubication_act": "Sala de Redes",
+            "state_act": "Activo",
+            "brand_act": "Juniper",
+            "type_act": "Switch",
+            "buy_process_act": "2022-06-22",
+            "in_maintenance": false
+        },
+        {
+            "id_act": 17,
+            "name_act": "Monitor Dell U2415",
+            "code_act": "A-1017",
+            "ubication_act": "Sala de Reuniones",
+            "state_act": "Activo",
+            "brand_act": "Dell",
+            "type_act": "Monitor",
+            "buy_process_act": "2021-01-30",
+            "in_maintenance": true
+        },
+        {
+            "id_act": 18,
+            "name_act": "Impresora Brother HL-2240",
+            "code_act": "A-1018",
+            "ubication_act": "Recepción",
+            "state_act": "En Reparación",
+            "brand_act": "Brother",
+            "type_act": "Impresora",
+            "buy_process_act": "2021-09-01",
+            "in_maintenance": false
+        },
+        {
+            "id_act": 19,
+            "name_act": "Teclado Corsair K95",
+            "code_act": "A-1019",
+            "ubication_act": "Oficina 8",
+            "state_act": "Activo",
+            "brand_act": "Corsair",
+            "type_act": "Teclado",
+            "buy_process_act": "2021-08-10",
+            "in_maintenance": false
+        },
+        {
+            "id_act": 20,
+            "name_act": "Mouse Razer DeathAdder",
+            "code_act": "A-1020",
+            "ubication_act": "Oficina 9",
+            "state_act": "Activo",
+            "brand_act": "Razer",
+            "type_act": "Mouse",
+            "buy_process_act": "2021-07-25",
+            "in_maintenance": false
+        }
+    ],
+    "mantenimientos": [
+        {
+            "num_mant": 1,
+            "attendant_mant": "Juan Pérez",
+            "date_start_mant": "2023-01-15",
+            "date_end_mant": "2023-01-16",
+            "code_mant": "M-001",
+            "state_mant": "Completado",
+            "type_attendant_mant": "Interno"
+        },
+        {
+            "num_mant": 2,
+            "attendant_mant": "María López",
+            "date_start_mant": "2023-02-10",
+            "date_end_mant": "2023-02-12",
+            "code_mant": "M-002",
+            "state_mant": "En Proceso",
+            "type_attendant_mant": "Externo"
+        },
+        {
+            "num_mant": 3,
+            "attendant_mant": "Juan Pérez",
+            "date_start_mant": "2023-03-05",
+            "date_end_mant": null,
+            "code_mant": "M-003",
+            "state_mant": "Pendiente",
+            "type_attendant_mant": "Interno"
+        },
+        {
+            "num_mant": 4,
+            "attendant_mant": "Carlos Martínez",
+            "date_start_mant": "2023-04-01",
+            "date_end_mant": "2023-04-03",
+            "code_mant": "M-004",
+            "state_mant": "Completado",
+            "type_attendant_mant": "Externo"
+        },
+        {
+            "num_mant": 5,
+            "attendant_mant": "Laura Gómez",
+            "date_start_mant": "2023-04-05",
+            "date_end_mant": "2023-04-06",
+            "code_mant": "M-005",
+            "state_mant": "Completado",
+            "type_attendant_mant": "Interno"
+        },
+        {
+            "num_mant": 6,
+            "attendant_mant": "Carlos Martínez",
+            "date_start_mant": "2023-05-12",
+            "date_end_mant": "2023-05-13",
+            "code_mant": "M-006",
+            "state_mant": "Pendiente",
+            "type_attendant_mant": "Externo"
+        },
+        {
+            "num_mant": 7,
+            "attendant_mant": "Juan Pérez",
+            "date_start_mant": "2023-05-22",
+            "date_end_mant": "2023-05-24",
+            "code_mant": "M-007",
+            "state_mant": "En Proceso",
+            "type_attendant_mant": "Interno"
+        },
+        {
+            "num_mant": 8,
+            "attendant_mant": "María López",
+            "date_start_mant": "2023-06-01",
+            "date_end_mant": "2023-06-02",
+            "code_mant": "M-008",
+            "state_mant": "Completado",
+            "type_attendant_mant": "Externo"
+        },
+        {
+            "num_mant": 9,
+            "attendant_mant": "Carlos Martínez",
+            "date_start_mant": "2023-06-10",
+            "date_end_mant": "2023-06-11",
+            "code_mant": "M-009",
+            "state_mant": "Pendiente",
+            "type_attendant_mant": "Interno"
+        },
+        {
+            "num_mant": 10,
+            "attendant_mant": "Laura Gómez",
+            "date_start_mant": "2023-07-05",
+            "date_end_mant": "2023-07-07",
+            "code_mant": "M-010",
+            "state_mant": "Completado",
+            "type_attendant_mant": "Externo"
+        },
+        {
+            "num_mant": 11,
+            "attendant_mant": "Carlos Martínez",
+            "date_start_mant": "2023-08-01",
+            "date_end_mant": "2023-08-02",
+            "code_mant": "M-011",
+            "state_mant": "En Proceso",
+            "type_attendant_mant": "Interno"
+        },
+        {
+            "num_mant": 12,
+            "attendant_mant": "Juan Pérez",
+            "date_start_mant": "2023-05-15",
+            "date_end_mant": "2023-05-17",
+            "code_mant": "M-012",
+            "state_mant": "Completado",
+            "type_attendant_mant": "Interno"
+        },
+        {
+            "num_mant": 13,
+            "attendant_mant": "Carlos Martínez",
+            "date_start_mant": "2023-10-04",
+            "date_end_mant": "2023-10-06",
+            "code_mant": "M-013",
+            "state_mant": "Pendiente",
+            "type_attendant_mant": "Externo"
+        },
+        {
+            "num_mant": 14,
+            "attendant_mant": "María López",
+            "date_start_mant": "2023-11-10",
+            "date_end_mant": "2023-11-11",
+            "code_mant": "M-014",
+            "state_mant": "Completado",
+            "type_attendant_mant": "Interno"
+        },
+        {
+            "num_mant": 15,
+            "attendant_mant": "Laura Gómez",
+            "date_start_mant": "2023-11-20",
+            "date_end_mant": "2023-11-21",
+            "code_mant": "M-015",
+            "state_mant": "En Proceso",
+            "type_attendant_mant": "Externo"
+        },
+        {
+            "num_mant": 16,
+            "attendant_mant": "Juan Pérez",
+            "date_start_mant": "2023-12-01",
+            "date_end_mant": "2023-12-02",
+            "code_mant": "M-016",
+            "state_mant": "Pendiente",
+            "type_attendant_mant": "Interno"
+        },
+        {
+            "num_mant": 17,
+            "attendant_mant": "María López",
+            "date_start_mant": "2023-12-15",
+            "date_end_mant": "2023-12-16",
+            "code_mant": "M-017",
+            "state_mant": "Completado",
+            "type_attendant_mant": "Externo"
+        },
+        {
+            "num_mant": 18,
+            "attendant_mant": "Carlos Martínez",
+            "date_start_mant": "2023-12-22",
+            "date_end_mant": "2023-12-23",
+            "code_mant": "M-018",
+            "state_mant": "Pendiente",
+            "type_attendant_mant": "Interno"
+        },
+        {
+            "num_mant": 19,
+            "attendant_mant": "Laura Gómez",
+            "date_start_mant": "2023-12-28",
+            "date_end_mant": "2023-12-29",
+            "code_mant": "M-019",
+            "state_mant": "En Proceso",
+            "type_attendant_mant": "Externo"
+        },
+        {
+            "num_mant": 20,
+            "attendant_mant": "Carlos Martínez",
+            "date_start_mant": "2024-01-01",
+            "date_end_mant": "2024-01-02",
+            "code_mant": "M-020",
+            "state_mant": "Completado",
+            "type_attendant_mant": "Interno"
+        }
+    ]
+}
